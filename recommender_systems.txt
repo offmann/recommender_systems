@@ -1,0 +1,10 @@
+collaborative vs content based
+
+collaborative :
+	- user-user
+	- item-item
+
+	- memory based (history and no model)
+	- model based (generative)
+
+
